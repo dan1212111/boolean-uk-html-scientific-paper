@@ -1,0 +1,30 @@
+* {
+    background-color: whitesmoke;
+}
+
+h1 {
+    color:black;
+    font-weight: bold;
+}
+
+h2 {
+    color:black;
+    font-weight: bold;
+}
+
+h4 {
+    color:black;
+    font-weight: bold;
+}
+
+hr {
+    height: 2px;
+    background-color: grey;
+    text-decoration: none;
+    border: 0ch;
+}
+
+P {
+    word-spacing:normal;
+    color: rgba(0, 0, 0, 0.897);
+}
